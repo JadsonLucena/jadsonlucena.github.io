@@ -17,7 +17,7 @@
 </p>
 
 ### Summary
-Focused on building systems that are secure by design, reliable, scalable, and resilient. I transform complexity into clear architectures — guided by data-driven decisions, clear bounded contexts, and a docs-first approach — and raise quality and engineering standards across teams. I help teams ship faster through automated delivery, gradual releases (canary and A/B), and cloud-portable design that avoids vendor lock-in.
+I help teams deliver faster with less risk by building systems that are secure by design, reliable, scalable, and resilient. I transform complexity into clear architectures - guided by data, clear boundaries between domains, and a docs-first approach that keeps stakeholders aligned - while raising quality and engineering standards across teams. I enable safe, fast delivery through automation, gradual rollouts (canary and A/B), and cloud-portable design that avoids vendor lock-in.
 
 ### Hard skills
 
