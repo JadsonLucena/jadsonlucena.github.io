@@ -17,7 +17,7 @@
 </p>
 
 ### Summary
-I help teams deliver faster with less risk by building systems that are secure by design, reliable, scalable, and resilient. I transform complexity into clear architectures - guided by data, clear boundaries between domains, and a docs-first approach that keeps stakeholders aligned - while raising quality and engineering standards across teams. I enable safe, fast delivery through automation, gradual rollouts (canary and A/B), and cloud-portable design that avoids vendor lock-in.
+I contribute to teams delivering faster by building systems that are secure by design, reliable, scalable, and resilient. I transform complexity into clear architectures - guided by data, clear boundaries between domains, and a docs-first approach that keeps stakeholders aligned - while raising quality and engineering standards within the teams I work with. I enable safe, fast delivery through automation, gradual rollouts (canary and A/B), and cloud-portable design that avoids vendor lock-in.
 
 ### Hard skills
 
