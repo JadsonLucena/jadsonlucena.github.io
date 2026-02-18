@@ -25,7 +25,7 @@ I contribute to teams delivering faster by building systems that are secure by d
 * **Researcher (IC PIBIC/CNPq)**, 08/2018 - 07/2019
   * Face verification with few training images using deep architectures - This undergraduate research project investigates face verification in a one-shot setting using a Siamese convolutional network based on SqueezeNet, trained with contrastive loss to extract features and distinguish identities using only a single face as the training example.
 * **Recife Municipal Civil Guard**, 03/2014 - 03/2020
-  * From that experience, I inherited discipline, respect for hierarchy, and operational protocols. As a Patrol Chief, I led teams in critical situations, which I now translate into assertive decisions under pressure. In technology, I apply the vision that security should be part of the entire project lifecycle, and not just the icing on the cake at the end. I deliver systems that are as resilient and reliable as the operations I led.
+  * From that experience, I inherited discipline, respect for hierarchy and operational protocols. As a Patrol Chief, I led teams in critical situations, which I now translate into assertive decisions under pressure. In technology, I apply the vision that security should be part of the entire project lifecycle, and not just the icing on the cake at the end. I deliver systems that are as resilient and reliable as the operations I led.
 
 ### Education
 * **CIn - Centro de Informática - UFPE**, Recife - PE
