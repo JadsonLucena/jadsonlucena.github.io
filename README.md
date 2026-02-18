@@ -11,6 +11,8 @@
   &nbsp;&nbsp;&nbsp;
   <a href="tel:+5581986041289" target="_blank">&#9742;+55 (81) 98604-1289</a>
   &nbsp;&nbsp;&nbsp;
+  &#128205;Recife, PE, Brazil
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jadsonlucena" target="_blank"><img src="https://s.magecdn.com/social/tc-linkedin.svg" height="14px"> JadsonLucena</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/JadsonLucena" target="_blank"><img src="https://s.magecdn.com/social/tc-github.svg" height="14px"> JadsonLucena</a>
