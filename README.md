@@ -29,7 +29,9 @@ I contribute to teams delivering faster by building systems that are secure by d
 	* Led technical alignment, engineering mentorship, roadmap execution, and vendor evaluation across scalability, security, integration, and cost.
 	* Re-architected MP4-to-HLS delivery, reducing costs by up to 80% and startup latency by approximately 30%, while improving playback scalability and user experience.
 	* Migrated 500+ TB across storage providers and implemented multicloud production/backup separation, improving resilience, disaster recovery, and service continuity.
-	* Designed multi-CDN and event-driven media pipelines, reducing vendor lock-in, enabling failover, and cutting subtitle processing time by approximately 50%.
+	* Designed a multi-CDN strategy, reducing vendor lock-in and enabling resilient failover across providers.
+	* Implemented event-driven media pipelines to parallelize media and subtitle processing, improving throughput and reducing subtitle processing time by approximately 50%.
+	* Adopted micro-frontend architecture using runtime integration strategies, enabling independent team ownership, decoupled deployments, and improved frontend scalability.
 	* Implemented GA4 instrumentation to improve visibility into learner behavior, engagement funnels, and UX optimization opportunities.
 * **Mid-Level Software Engineer**, VideoFront | 12/2019 – 01/2023
 	* Worked as a Full-Stack PWA developer, building and evolving customer-facing video and education solutions across frontend, backend, and media workflows.
