@@ -19,7 +19,7 @@
 </p>
 
 ### Summary
-I contribute to teams delivering faster by building systems that are secure by design, reliable, scalable, and resilient. I transform complexity into clear architectures - guided by data, clear boundaries between domains, and a docs-first approach that keeps stakeholders aligned - while raising quality and engineering standards within the teams I work with. I enable safe, fast delivery through automation, gradual rollouts (canary and A/B), and cloud-portable design that avoids vendor lock-in.
+I contribute to teams delivering faster by building systems that are secure by design, reliable, scalable, and resilient. I transform complexity into clear architectures - guided by data, clear boundaries between domains, and a docs-first approach that keeps stakeholders aligned - while raising quality and engineering standards within the teams I work with. I enable safe, fast delivery through automation, gradual rollouts, and cloud-portable design that avoids vendor lock-in.
 
 ### Skills
 
@@ -46,7 +46,7 @@ I contribute to teams delivering faster by building systems that are secure by d
 * Undergraduate Researcher | **Scientific Initiation Program (PIBIC/CNPq)**, Federal University of Pernambuco (UFPE) | 08/2018 – 07/2019
   * Face verification with few training images using deep architectures - This undergraduate research project studies one-shot face verification using a SqueezeNet-based Siamese CNN with contrastive loss to distinguish identities from a single training image.
 * **Municipal Civil Guard**, Recife City Hall | 03/2014 - 03/2020
-  * From that experience, I inherited discipline, respect for hierarchy and operational protocols. As a Patrol Chief, I led teams in critical situations, which I now translate into assertive decisions under pressure. In technology, I apply the vision that security should be part of the entire project lifecycle, and not just the icing on the cake at the end. I deliver systems that are as resilient and reliable as the operations I led.
+  * From that experience, I inherited discipline, respect for hierarchy, and strict adherence to operational protocols. As a Patrol Chief, I led teams in critical situations, where decisions carried not only operational consequences but also legal weight. This shaped my ability to make assertive and accountable decisions under pressure. In technology, I apply the vision that security and compliance should be part of the entire project lifecycle, and not just the icing on the cake at the end. I deliver systems that are as resilient and reliable as the operations I led.
 
 ### Education
 
