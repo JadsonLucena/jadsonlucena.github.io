@@ -24,6 +24,16 @@ I contribute to teams delivering faster by building systems that are secure by d
 ### Skills
 
 ### Experience
+* **Senior Software Engineer**, UOL EdTech (Passei Direto) | 04/2025 – Present
+	* Built deep expertise in payment and subscription systems, including billing orchestration, lifecycle management, and churn prevention strategies.
+	* Leading architecture and evolution of the purchase, subscription, and recurring revenue platform, supporting scalable monetization strategies across a large user base.
+	* Acting as a technical authority in the monetization domain, driving decisions around scalability, resilience, consistency, and long-term maintainability.
+	* Re-architected the subscription lifecycle and billing flows, enabling flexible pricing strategies such as cross-sell, up-sell, and down-sell, and improving adaptability to business needs.
+	* Designed and implemented a Proactive Customer Health Indicator (PDI), leveraging system signals to detect inconsistencies and trigger automated remediation workflows, reducing involuntary churn and improving revenue retention.
+	* Drove root cause analysis and systemic fixes for critical incidents, increasing platform reliability, reducing failure recurrence, and protecting recurring revenue streams.
+	* Led the adoption of AI-assisted engineering practices, establishing guidelines and workflows that accelerated delivery while preserving code quality, consistency, and review standards, positioning the initiative as a pilot later scaled across multiple teams.
+	* Facilitated technical strategy forums and engineering rituals, aligning teams on architectural direction, elevating technical standards, and fostering a culture of continuous improvement.
+	* Partnered closely with product and business stakeholders during discovery and refinement, ensuring solutions balance technical excellence with measurable business impact.
 * **Senior Software Architect**, VideoFront | 01/2023 – 03/2025
 	* Specialized in digital media, streaming, asset management, and scalable video platform architecture.
 	* Led technical alignment, engineering mentorship, roadmap execution, and vendor evaluation across scalability, security, integration, and cost.
