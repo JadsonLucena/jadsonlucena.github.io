@@ -25,6 +25,7 @@ I contribute to teams delivering faster by building systems that are secure by d
 
 ### Experience
 * **Senior Software Architect**, VideoFront | 01/2023 – 03/2025
+  * Throughout my years at VideoFront, I became a specialist in digital media, streaming, asset management, and the underlying architectures behind scalable video platforms. From browser-based recording and live streaming to media processing pipelines, storage strategy, multi-CDN delivery, and cloud resilience, I built end-to-end expertise in designing reliable, cost-efficient, and customer-oriented video solutions. 
   * Re-architected the MP4-to-HLS delivery workflow from triggered on-demand Kubernetes packaging to a pre-generated HLS pipeline, reducing delivery costs by up to 80% and startup latency by approximately 30% while improving playback experience and scalability (FFmpeg, HLS/m3u8, CDN, GCP).
   * Migrated 500+ TB across S3-compatible storage providers and implemented multicloud production/backup separation, improving business continuity, disaster recovery readiness, and service reliability for customer-facing workloads (AWS, Google Cloud, DigitalOcean, Azion, Datasafer).
   * Designed a multi-CDN architecture to reduce vendor lock-in, enable failover/fallback routing, and improve cost/performance flexibility, supporting more reliable delivery and SLA-aligned performance across different client profiles (Akamai, Tencent, Azion, Bunny, Qwilt, Level 3, AWS, Google Cloud).
