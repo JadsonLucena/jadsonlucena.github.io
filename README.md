@@ -25,15 +25,13 @@ I contribute to teams delivering faster by building systems that are secure by d
 
 ### Experience
 * **Senior Software Engineer**, UOL EdTech (Passei Direto) | 04/2025 – Present
-	* Built deep expertise in payment and subscription systems, including billing orchestration, lifecycle management, and churn prevention strategies.
-	* Leading architecture and evolution of the purchase, subscription, and recurring revenue platform, supporting scalable monetization strategies across a large user base.
-	* Acting as a technical authority in the monetization domain, driving decisions around scalability, resilience, consistency, and long-term maintainability.
-	* Re-architected the subscription lifecycle and billing flows, enabling flexible pricing strategies such as cross-sell, up-sell, and down-sell, and improving adaptability to business needs.
-	* Designed and implemented a Proactive Customer Health Indicator (PDI), leveraging system signals to detect inconsistencies and trigger automated remediation workflows, reducing involuntary churn and improving revenue retention.
-	* Drove root cause analysis and systemic fixes for critical incidents, increasing platform reliability, reducing failure recurrence, and protecting recurring revenue streams.
-	* Led the adoption of AI-assisted engineering practices, establishing guidelines and workflows that accelerated delivery while preserving code quality, consistency, and review standards, positioning the initiative as a pilot later scaled across multiple teams.
-	* Facilitated technical strategy forums and engineering rituals, aligning teams on architectural direction, elevating technical standards, and fostering a culture of continuous improvement.
-	* Partnered closely with product and business stakeholders during discovery and refinement, ensuring solutions balance technical excellence with measurable business impact.
+	* Build deep expertise in payment and subscription systems, driving scalable billing orchestration, lifecycle management, and churn prevention.
+	* Lead the architecture and evolution of the monetization platform, enabling scalable recurring revenue across a large user base.
+	* Re-architect subscription lifecycle and billing flows, unlocking flexible pricing strategies (cross-sell, up-sell, down-sell) and faster business experimentation.
+	* Design and implement a Proactive Customer Health Indicator (PDI), reducing involuntary churn and improving revenue retention through automated remediation workflows.
+	* Drive root cause analysis and systemic fixes for critical incidents, increasing platform reliability and protecting recurring revenue streams.
+	* Lead the adoption of AI-assisted engineering practices, accelerating delivery while preserving quality standards, and establishing a pilot later scaled across teams.
+	* Moderate technical strategy forums and weekly engineering rituals, aligning teams on architectural direction and elevating technical standards.
 * **Senior Software Architect**, VideoFront | 01/2023 – 03/2025
 	* Specialized in digital media, streaming, asset management, and scalable video platform architecture.
 	* Led technical alignment, engineering mentorship, roadmap execution, and vendor evaluation across scalability, security, integration, and cost.
@@ -51,10 +49,10 @@ I contribute to teams delivering faster by building systems that are secure by d
 	* Reduced technical debt through refactoring, design patterns, automated tests, and documentation, enabling faster and safer feature delivery.
 	* Owned triage and remediation of high-priority production incidents using observability signals, reducing user-facing disruption and improving recovery speed.
 * **Intern**, VideoFront | 03/2019 – 12/2019
-	* Built the MyHomeStudio MVP, enabling low-cost browser-based lesson recording and presentations for early users.
+	* Built the MyHomeStudio, enabling low-cost browser-based lesson recording.
+	* Delivered presenter tooling, including whiteboard, teleprompter, material display, and remote/tablet controls.
 	* Implemented real-time chroma key and rendering flows sustaining approximately 30 FPS on mid-range laptops, improving in-browser video performance and user experience.
 	* Developed live rooms with WebRTC and RTMP restreaming, expanding streaming options to external platforms.
-	* Delivered presenter tooling, including whiteboard, teleprompter, material display, and remote/tablet controls.
 	* Quickly grew into end-to-end feature ownership, increasing team throughput and freeing senior engineers for higher-complexity work.
 * Undergraduate Researcher | **Scientific Initiation Program (PIBIC/CNPq)**, Federal University of Pernambuco (UFPE) | 08/2018 – 07/2019
   * Face verification with few training images using deep architectures - This undergraduate research project studies one-shot face verification using a SqueezeNet-based Siamese CNN with contrastive loss to distinguish identities from a single training image.
