@@ -68,3 +68,24 @@ I contribute to teams delivering faster by building systems that are secure by d
 **Bachelor of Science (B.S.) in Computer Science** | 07/2014 – 06/2020
 
 ### Certifications
+**Professional Cloud Architect** — Google Cloud\
+Issued: Oct 2024 · Expires: Oct 2026\
+Credential URL: https://www.credly.com/badges/65551f1b-6430-40d8-8ee4-c5b54bfcc9f9
+
+**Google Cybersecurity Professional Certificate** — Google\
+Duration: 266 hours\
+Completed: Apr 2025 – Feb 2026\
+Credential URL: https://www.coursera.org/account/accomplishments/professional-cert/32CLHQWXAUN0
+
+**Site Reliability Engineering** — Google\
+Duration: 13 hours\
+Completed: Feb 2026 – Mar 2026\
+Credential URL: https://www.coursera.org/account/accomplishments/verify/4TH6J0N2M9T6
+
+**Cyber Academy** — FEBRABAN\
+Duration: 40 hours\
+Completed: Sep 2024 – Oct 2024
+
+**Web Developer** — Microcamp\
+Duration: 264 hours\
+Completed: Jan 2011 – Feb 2013
