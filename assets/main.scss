@@ -1,0 +1,215 @@
+---
+---
+
+@import "minima";
+
+:root {
+  --accent: #175a75;
+  --text: #24313a;
+  --muted: #52636e;
+  --rule: #d8e1e5;
+}
+
+body {
+  color: var(--text);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+.site-header,
+.site-footer {
+  display: none;
+}
+
+.page-content {
+  padding: 3rem 0;
+}
+
+.wrapper {
+  max-width: 860px;
+}
+
+.post-header {
+  display: none;
+}
+
+.resume-hero {
+  margin-bottom: 2.5rem;
+  text-align: center;
+}
+
+.resume-hero h1 {
+  color: #17242d;
+  font-size: clamp(2.25rem, 7vw, 3.75rem);
+  font-weight: 700;
+  letter-spacing: -0.035em;
+  line-height: 1.05;
+  margin: 0 0 0.8rem;
+}
+
+.professional-title {
+  color: var(--accent);
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin: 0 auto 0.65rem;
+}
+
+.location {
+  color: var(--muted);
+  margin: 0 0 0.25rem;
+}
+
+.contact-list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem 0.6rem;
+  justify-content: center;
+  margin: 0;
+}
+
+a {
+  color: var(--accent);
+  text-underline-offset: 0.15em;
+}
+
+h2 {
+  border-bottom: 2px solid var(--accent);
+  color: #17242d;
+  font-size: 1.35rem;
+  letter-spacing: 0.025em;
+  margin-top: 2.4rem;
+  padding-bottom: 0.3rem;
+}
+
+.experience-heading {
+  align-items: baseline;
+  display: flex;
+  font-size: 1rem;
+  gap: 1rem;
+  justify-content: space-between;
+  line-height: 1.35;
+  margin: 1.6rem 0 0.45rem;
+}
+
+.experience-heading span {
+  font-weight: 700;
+}
+
+.experience-heading time {
+  color: var(--muted);
+  flex: 0 0 auto;
+  font-size: 0.92rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.experience-heading + ul {
+  margin-top: 0;
+}
+
+li {
+  margin-bottom: 0.32rem;
+}
+
+@media (max-width: 600px) {
+  .page-content {
+    padding: 1.75rem 0;
+  }
+
+  .resume-hero {
+    text-align: left;
+  }
+
+  .contact-list {
+    justify-content: flex-start;
+  }
+
+  .experience-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+}
+
+@media print {
+  @page {
+    margin: 12mm 14mm;
+    size: A4;
+  }
+
+  :root {
+    --accent: #000;
+    --text: #000;
+    --muted: #222;
+  }
+
+  body {
+    background: #fff;
+    font-size: 9.5pt;
+    line-height: 1.32;
+  }
+
+  .site-header,
+  .site-footer {
+    display: none !important;
+  }
+
+  .page-content {
+    padding: 0;
+  }
+
+  .wrapper {
+    max-width: none;
+    padding: 0;
+  }
+
+  .resume-hero {
+    margin-bottom: 1rem;
+  }
+
+  .resume-hero h1 {
+    font-size: 25pt;
+  }
+
+  .professional-title {
+    font-size: 11pt;
+  }
+
+  h2 {
+    break-after: avoid;
+    font-size: 12pt;
+    margin: 1rem 0 0.35rem;
+  }
+
+  .experience-heading {
+    break-after: avoid;
+    font-size: 9.5pt;
+    margin: 0.75rem 0 0.2rem;
+  }
+
+  .experience-heading + ul {
+    break-before: avoid;
+  }
+
+  p, li {
+    orphans: 2;
+    widows: 2;
+  }
+
+  li {
+    margin-bottom: 0.12rem;
+  }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  a[href^="http"]::after,
+  a[href^="mailto"]::after,
+  a[href^="tel"]::after {
+    content: none;
+  }
+}
