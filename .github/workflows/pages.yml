@@ -27,6 +27,7 @@ jobs:
         run: |
           printf '%s\n' '---' 'layout: default' '---' > index.md
           cat README.md >> index.md
+          perl -pi -e 's/\btarget="_blank"(?![^>]*\brel=)/target="_blank" rel="noopener noreferrer"/g' index.md
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
