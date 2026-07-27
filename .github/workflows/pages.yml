@@ -28,6 +28,10 @@ jobs:
         with:
           ruby-version: "3.3"
           bundler-cache: true
+      - name: Generate the home page from README
+        run: |
+          printf '%s\n' '---' 'layout: default' 'title: Professional Résumé' '---' > index.md
+          cat README.md >> index.md
       - name: Build with Jekyll
         run: JEKYLL_ENV=production bundle exec jekyll build
       - name: Check links and HTML
