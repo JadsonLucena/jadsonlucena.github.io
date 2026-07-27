@@ -32,10 +32,11 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Add Google site verification
+      - name: Add Google site integrations
         run: |
-          sed -i 's|</head>|  <meta name="google-site-verification" content="R0WyD-t14KkFu4UXwod7cX2yoJ3RdtY329ab61V2_bg" />\n</head>|' _site/index.html
+          sed -i 's~</head>~  <meta name="google-site-verification" content="R0WyD-t14KkFu4UXwod7cX2yoJ3RdtY329ab61V2_bg" />\n  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HNFG0BMHQR"></script>\n  <script>\n    window.dataLayer = window.dataLayer || [];\n    function gtag(){dataLayer.push(arguments);}\n    gtag("js", new Date());\n    gtag("config", "G-HNFG0BMHQR");\n  </script>\n</head>~' _site/index.html
           grep -Fq '<meta name="google-site-verification" content="R0WyD-t14KkFu4UXwod7cX2yoJ3RdtY329ab61V2_bg" />' _site/index.html
+          grep -Fq 'gtag("config", "G-HNFG0BMHQR")' _site/index.html
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
