@@ -32,6 +32,10 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Add Google site verification
+        run: |
+          sed -i 's|</head>|  <meta name="google-site-verification" content="R0WyD-t14KkFu4UXwod7cX2yoJ3RdtY329ab61V2_bg" />\n</head>|' _site/index.html
+          grep -Fq '<meta name="google-site-verification" content="R0WyD-t14KkFu4UXwod7cX2yoJ3RdtY329ab61V2_bg" />' _site/index.html
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
