@@ -24,7 +24,15 @@ I contribute to teams delivering faster by building systems that are secure by d
 ### Skills
 
 ### Experience
-* **Senior Software Engineer**, UOL EdTech (Passei Direto) | 04/2025 – Present
+* **Software Engineering Coordinator**, UOL EdTech (Passei Direto) | 06/2026 – Present
+	* Lead the Payments and Subscriptions engineering domain, combining engineering management and technical leadership to align architecture, delivery, people development, product strategy, and business goals.
+	* Manage and develop software engineers through mentoring, continuous feedback, performance management, and career development, strengthening team autonomy, accountability, and execution.
+	* Define technical direction and oversee the architectural evolution of payment, billing, renewal, and subscription systems, prioritizing scalability, reliability, security, resilience, and maintainability.
+	* Manage delivery planning, initiative prioritization, technical risks, dependencies, and engineering performance indicators, improving predictability and supporting data-driven decisions.
+	* Collaborate across Engineering, Product, Operations, and business teams to translate strategic objectives into sustainable technical solutions and execution plans.
+	* Evolve payment and subscription journeys to reduce user friction, improve renewal continuity, protect recurring revenue, and support long-term business sustainability.
+	* Drive continuous improvements in availability, observability, operational efficiency, incident response, engineering processes, and software delivery quality.
+* **Senior Software Engineer**, UOL EdTech (Passei Direto) | 04/2025 – 05/2026
 	* Build deep expertise in payment and subscription systems, driving scalable billing orchestration, lifecycle management, and churn prevention.
 	* Lead the architecture and evolution of the monetization platform, enabling scalable recurring revenue across a large user base.
 	* Re-architect subscription lifecycle and billing flows, unlocking flexible pricing strategies (cross-sell, up-sell, down-sell) and faster business experimentation.
