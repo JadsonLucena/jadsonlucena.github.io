@@ -28,11 +28,6 @@ jobs:
         with:
           ruby-version: "3.3"
           bundler-cache: true
-      - name: Use README as the home page
-        run: |
-          printf '%s\n' '---' 'layout: default' '---' > index.md
-          cat README.md >> index.md
-          perl -pi -e 's/\btarget="_blank"(?![^>]*\brel=)/target="_blank" rel="noopener noreferrer"/g' index.md
       - name: Build with Jekyll
         run: JEKYLL_ENV=production bundle exec jekyll build
       - name: Check links and HTML
