@@ -2,7 +2,7 @@
 
 <h4 align="center">
   Software Architect | DevSecOps | SRE | Agile | Customer-Centric
-  
+  <br>
   Intermediate English
 </h4>
 
@@ -12,7 +12,7 @@
   <a href="tel:+5581986041289" target="_blank">&#9742;+55 (81) 98604-1289</a>
   &nbsp;&nbsp;&nbsp;
   &#128205;Recife, PE, Brazil
-  &nbsp;&nbsp;&nbsp;
+  <br>
   <a href="https://www.linkedin.com/in/jadsonlucena" target="_blank"><img src="https://s.magecdn.com/social/tc-linkedin.svg" height="14px"> JadsonLucena</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/JadsonLucena" target="_blank"><img src="https://s.magecdn.com/social/tc-github.svg" height="14px"> JadsonLucena</a>
@@ -22,11 +22,8 @@
 I contribute to teams delivering faster by building systems that are secure by design, reliable, scalable, and resilient. I transform complexity into clear architectures - guided by data, clear boundaries between domains, and a docs-first approach that keeps stakeholders aligned - while raising quality and engineering standards within the teams I work with. I enable safe, fast delivery through automation, gradual rollouts, and cloud-portable design that avoids vendor lock-in.
 
 ### Skills
-
-**Leadership & Management:** Technical Leadership, Engineering Management, Stakeholder Management
-
-**Architecture & Engineering:** Software Architecture, Distributed Systems, Cloud Architecture
-
+**Leadership & Management:** Technical Leadership, Engineering Management, Stakeholder Management\
+**Architecture & Engineering:** Software Architecture, Distributed Systems, Cloud Architecture\
 **Reliability & Delivery:** Site Reliability Engineering (SRE), DevSecOps, Observability, Incident Management
 
 ### Experience
