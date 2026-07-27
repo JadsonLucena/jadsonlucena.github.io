@@ -23,6 +23,12 @@ I contribute to teams delivering faster by building systems that are secure by d
 
 ### Skills
 
+**Leadership & Management:** Technical Leadership, Engineering Management, Stakeholder Management
+
+**Architecture & Engineering:** Software Architecture, Distributed Systems, Cloud Architecture
+
+**Reliability & Delivery:** Site Reliability Engineering (SRE), DevSecOps, Observability, Incident Management
+
 ### Experience
 * **Software Engineering Coordinator**, UOL EdTech (Passei Direto) | 06/2026 – Present
 	* Lead the Payments and Subscriptions engineering domain, combining engineering management and technical leadership to align architecture, delivery, people development, product strategy, and business goals.
