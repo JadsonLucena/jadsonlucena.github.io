@@ -40,6 +40,14 @@ I contribute to teams delivering faster by building systems that are secure by d
 	* Drive root cause analysis and systemic fixes for critical incidents, increasing platform reliability and protecting recurring revenue streams.
 	* Lead the adoption of AI-assisted engineering practices, accelerating delivery while preserving quality standards, and establishing a pilot later scaled across teams.
 	* Moderate technical strategy forums and weekly engineering rituals, aligning teams on architectural direction and elevating technical standards.
+* **Independent Software Engineer & Technical Consultant**, Independent Consulting | 07/2019 – Present
+	* Deliver part-time software engineering and technical consulting engagements across EdTech, digital learning, e-commerce, cybersecurity, and cloud infrastructure.
+	* Design and integrate Moodle, WordPress, BigBlueButton, WebRTC, REST, and SOAP solutions, automating enrollment, attendance, identity verification, certification, and reporting while supporting regulatory compliance.
+	* Develop government integrations with Departments of Motor Vehicles across 15 Brazilian states, supporting student validation, course progress tracking, regulatory reporting, and certificate issuance.
+	* Build custom full-stack systems for subscriptions, payments, academic scheduling, certificate generation, and digital signatures, including a browser-based workflow that eliminated reliance on the DocuSign API.
+	* Optimize BigBlueButton and WebRTC platforms for education and music, improving audio quality, bandwidth efficiency, recording management, analytics, and service stability.
+	* Migrate applications, databases, and media workloads across on-premises and cloud environments, preserving data integrity and service continuity.
+	* Troubleshoot and remediate production issues involving application security, performance, APIs, databases, media processing, and infrastructure, improving reliability and recovery speed.
 * **Senior Software Architect**, VideoFront | 01/2023 – 03/2025
 	* Specialized in digital media, streaming, asset management, and scalable video platform architecture.
 	* Led technical alignment, engineering mentorship, roadmap execution, and vendor evaluation across scalability, security, integration, and cost.
