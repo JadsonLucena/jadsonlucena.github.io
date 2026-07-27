@@ -1,0 +1,54 @@
+name: Build and deploy GitHub Pages
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Use README as the home page
+        run: |
+          printf '%s\n' '---' 'layout: default' '---' > index.md
+          cat README.md >> index.md
+          perl -pi -e 's/\btarget="_blank"(?![^>]*\brel=)/target="_blank" rel="noopener noreferrer"/g' index.md
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Validate Google site integrations
+        run: |
+          grep -Fq '<meta name="google-site-verification" content="R0WyD-t14KkFu4UXwod7cX2yoJ3RdtY329ab61V2_bg" />' _site/index.html
+          grep -Fq 'G-WXEX4KF4T8' _site/index.html
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
