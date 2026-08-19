@@ -11,7 +11,7 @@
 </div>
 
 ## Summary
-I contribute to teams delivering faster by building systems that are secure by design, reliable, scalable, and resilient. I transform complexity into clear architectures—guided by data, clear boundaries between domains, and a docs-first approach that keeps stakeholders aligned—while raising quality and engineering standards within the teams I work with. I enable safe, fast delivery through automation, gradual rollouts, and cloud-portable design that avoids vendor lock-in.
+I contribute to teams delivering faster by building systems that are secure by design, reliable, scalable, and resilient. I transform complexity into clear architectures-guided by data, clear boundaries between domains, and a docs-first approach that keeps stakeholders aligned-while raising quality and engineering standards within the teams I work with. I enable safe, fast delivery through automation, gradual rollouts, and cloud-portable design that avoids vendor lock-in.
 
 ## Skills
 **Leadership & Management:** Technical Leadership, Engineering Management, Stakeholder Management\
@@ -83,7 +83,7 @@ I contribute to teams delivering faster by building systems that are secure by d
 
 <h3 class="experience-heading"><span>Municipal Civil Guard, Recife City Hall</span><time>03/2014 - 03/2020</time></h3>
 
-- Developed discipline, respect for hierarchy, and strict adherence to operational protocols. As a Patrol Chief, I led teams in critical situations where decisions carried operational and legal consequences. This shaped my ability to make assertive and accountable decisions under pressure. In technology, I apply the principle that security and compliance belong throughout the project lifecycle—not only at the end—and deliver systems as resilient and reliable as the operations I led.
+- Developed discipline, respect for hierarchy, and strict adherence to operational protocols. As a Patrol Chief, I led teams in critical situations where decisions carried operational and legal consequences. This shaped my ability to make assertive and accountable decisions under pressure. In technology, I apply the principle that security and compliance belong throughout the project lifecycle-not only at the end-and deliver systems as resilient and reliable as the operations I led.
 
 ## Education
 
@@ -96,21 +96,21 @@ Federal University of Pernambuco (UFPE) - Center for Informatics (CIn), Recife, 
 07/2014 - 06/2020
 
 ## Certifications
-**Professional Cloud Architect** — Google Cloud\
+**Professional Cloud Architect** - Google Cloud\
 Issued: Oct 2024 · Expires: Oct 2026 · [View credential](https://www.credly.com/badges/65551f1b-6430-40d8-8ee4-c5b54bfcc9f9)
 
-**Google Cybersecurity Professional Certificate** — Google\
+**Google Cybersecurity Professional Certificate** - Google\
 Duration: 266 hours · Completed: Apr 2025 - Feb 2026 · [View credential](https://www.coursera.org/account/accomplishments/professional-cert/32CLHQWXAUN0)
 
-**Site Reliability Engineering** — Google\
+**Site Reliability Engineering** - Google\
 Duration: 13 hours · Completed: Feb 2026 - Mar 2026 · [View credential](https://www.coursera.org/account/accomplishments/verify/4TH6J0N2M9T6)
 
-**Cyber Academy** — FEBRABAN\
+**Cyber Academy** - FEBRABAN\
 Duration: 40 hours · Completed: Sep 2024 - Oct 2024
 
-**Web Developer** — Microcamp\
+**Web Developer** - Microcamp\
 Duration: 264 hours · Completed: Jan 2011 - Feb 2013
 
 ## Languages
-**English** — Intermediate (B1)\
-**Portuguese** — Native
+**English** - Intermediate (B1)\
+**Portuguese** - Native
