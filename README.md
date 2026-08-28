@@ -11,7 +11,7 @@
 </div>
 
 ## Summary
-I contribute to teams delivering faster by building systems that are secure by design, reliable, scalable, and resilient. I transform complexity into clear architectures-guided by data, clear boundaries between domains, and a docs-first approach that keeps stakeholders aligned-while raising quality and engineering standards within the teams I work with. I enable safe, fast delivery through automation, gradual rollouts, and cloud-portable design that avoids vendor lock-in.
+I lead engineering teams, empowering them to deliver secure, reliable, resilient, and efficient systems. I align architectural direction and engineering priorities with business objectives, guiding data-driven decisions in close collaboration with product and business teams. I strengthen team autonomy, engineering standards, and operational excellence, balancing performance, cost efficiency, and sustainability to drive lasting outcomes for customers and the business.
 
 ## Skills
 **Leadership & Management:** Technical Leadership, Engineering Management, Stakeholder Management\
