@@ -2,12 +2,12 @@
   <h1>Jadson Torres de Lucena</h1>
   <p class="professional-title">Software Engineering Coordinator | Engineering Manager | Software &amp; Cloud Architecture</p>
   <p class="location">Recife, Brazil</p>
-  <p class="contact-list">
+  <address class="contact-list" aria-label="Contact information">
     <a href="mailto:jadsonlucena@gmail.com">jadsonlucena@gmail.com</a><span aria-hidden="true">·</span>
-    <a href="tel:+5581986041289">+55 (81) 98604-1289</a><span aria-hidden="true">·</span>
-    <a href="https://www.linkedin.com/in/jadsonlucena">LinkedIn</a><span aria-hidden="true">·</span>
-    <a href="https://github.com/JadsonLucena">GitHub</a>
-  </p>
+    <a href="tel:+5581986041289" aria-label="Phone: plus 55, 81, 98604-1289">+55 (81) 98604-1289</a><span aria-hidden="true">·</span>
+    <a href="https://www.linkedin.com/in/jadsonlucena">LinkedIn<span class="visually-hidden"> profile</span></a><span aria-hidden="true">·</span>
+    <a href="https://github.com/JadsonLucena">GitHub<span class="visually-hidden"> profile</span></a>
+  </address>
 </div>
 
 ## Summary
